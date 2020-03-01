@@ -1,0 +1,66 @@
+/* ImageBackground */
+
+.background {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+    background-image: url(img/bg1.png);
+}
+
+/* container */
+.container {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+    background: rgba(42, 38, 61, 0.82);
+}
+
+h1 {
+    position: absolute;
+    left: 540px;
+    right: 541px;
+    top: 145px;
+    bottom: 465px;
+
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 84px;
+    text-align: center;
+
+    color: #FCB371;
+
+}
+
+p {
+    position: absolute;
+    width: 768px;
+    height: 190px;
+    left: 256px;
+    top: 301px;
+
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+/* Back */
+
+a{
+    position: absolute;
+    width: 24px;
+    height: 0px;
+    left: 60px;
+    top: 50px;
+    font-family: pacifico;
+    color: #FCB371;
+}

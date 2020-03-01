@@ -1,0 +1,116 @@
+
+/* ImageBackground */
+
+.background {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+    background-image: url(img/image.png);
+}
+
+/* container */
+.container {
+position: absolute;
+width: 1280px;
+height: 720px;
+left: 0px;
+top: 0px;
+background: rgba(42, 38, 61, 0.82);
+}
+
+/* A Better way to Travel to Bali */
+
+.container .display-1 {
+position: absolute;
+left: 476px;
+right: 476px;
+top: 190px;
+bottom: 329px;
+
+font-family: Pacifico;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 84px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.container .display-1 span {
+    color: #FCB371;
+}
+
+/* Cheapest and Easier */
+.container .display-2 {
+position: absolute;
+width: 124px;
+height: 17px;
+left: 578px;
+top: 375px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* IconBali */
+
+.logo {
+position: absolute;
+width: 165px;
+height: 165px;
+left: 564px;
+top: 44px;
+
+}
+
+/* button */
+.boxes {
+    position: absolute;
+    width: 156px;
+    height: 46px;
+    left: 477px;
+    top: 481px;
+    
+    border: 2px solid #FCB371;
+    box-sizing: border-box;
+    border-radius: 6px;
+    text-align: center;
+}
+.boxes a {
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #FCB371;
+
+}
+.boxes-2 {
+    position: absolute;
+    width: 156px;
+    height: 46px;
+    left: 646px;
+    top: 481px;
+
+    background: #FCB371;
+    border-radius: 6px;
+    text-align: center;
+}
+.boxes-2 a {
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
